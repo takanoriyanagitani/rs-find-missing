@@ -1,2 +1,3 @@
 # rs-find-missing
-Finds texts from a small text(file) which are not found in a larger text(stdin)
+
+Finds texts from stdin not found in a (small) file
